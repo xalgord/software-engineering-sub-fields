@@ -1,7 +1,5 @@
 # What are the sub-fields in software engineering?
 
-It was interesting reading the other two (as of this writing) answers. They give a different perspective than what I think of regarding subfields of software engineering. So what follows is my perspective which is more focused on application domains. I suggest reading the other answers to get these other perspectives. It just goes to show that there is more than one way to slice up software engineering.
-
 - Artificial Intelligence
 - Business and Finance
 - Analytics
