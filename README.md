@@ -14,8 +14,16 @@
 - Computer graphics and Image Processing
 - Cryptography
 - Cyber-security
-  - Hacking
-  - Counter-measures
+  - Network security
+  - Application security
+  - Information security
+  - Cloud security
+  - Mobile security
+  - Cryptography
+  - Cybercrime investigation
+  - Disaster recovery
+  - Identity and access management
+  - Risk management
 - Database
   - Embedded systems
   - Automotive software
